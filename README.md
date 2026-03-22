@@ -36,8 +36,9 @@ $@B%8&WM#*oahkbdpqwmZO0QLCJU Xzcvunxrjft/|()1{}[]?-_+~<>i!lI;:,"^'.
 ```
 
 Ascii_art/
-│── image.py              # Main script: image → ASCII
-│── clean_ascii.py        # Remove ANSI escape sequences
+│── ascii_art/
+│   ├── image.py                     # Main script: image → ASCII
+│   └── clean_ascii.py        # Remove ANSI escape sequences
 │
 ├── examples/
 │   ├── images/
