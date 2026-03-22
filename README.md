@@ -129,11 +129,3 @@ You can modify:
 * Python 3
 * Pillow
 * NumPy
-
----
-
-## 📄 License
-
-MIT License
-
-```
