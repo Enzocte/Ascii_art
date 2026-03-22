@@ -1,5 +1,3 @@
-# 📄 README.md
-
 ```markdown
 # 🎨 ASCII Art Generator
 
