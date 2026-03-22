@@ -1,4 +1,3 @@
-```markdown
 # 🎨 ASCII Art Generator
 
 A simple Python project that converts images into ASCII art using grayscale mapping.
